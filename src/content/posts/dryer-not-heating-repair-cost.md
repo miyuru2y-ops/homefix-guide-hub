@@ -4,7 +4,7 @@ slug: "dryer-not-heating-repair-cost"
 metaDescription: "Estimate dryer-not-heating repair cost using fuel type, diagnosis, vent and utility checks, parts, labor, access, warranty coverage, and replacement cost."
 category: "repair-cost-guides"
 tags: ["dryer not heating repair cost", "dryer not heating", "dryer repair", "heating element", "gas dryer"]
-date: "2026-09-06"
+date: "2026-09-05"
 updated: "2026-09-06"
 revisionSummary: "Published a safety-first dryer heating cost guide covering diagnosis, venting, utilities, repair scope, coverage, and replacement decisions."
 author: "Editorial Team"

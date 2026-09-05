@@ -4,7 +4,7 @@ slug: "refrigerator-ice-maker-repair-cost"
 metaDescription: "Estimate refrigerator ice maker repair cost using diagnosis, model, water supply, parts, labor, access, warranty coverage, and replacement alternatives."
 category: "repair-cost-guides"
 tags: ["refrigerator ice maker repair cost", "ice maker not working", "refrigerator repair", "ice maker replacement", "repair estimate"]
-date: "2026-09-06"
+date: "2026-09-05"
 updated: "2026-09-06"
 revisionSummary: "Published a diagnosis-first ice-maker cost guide covering water supply, temperature, components, access, warranties, and repair decisions."
 author: "Editorial Team"
