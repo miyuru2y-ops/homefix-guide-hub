@@ -13,8 +13,32 @@ export default defineConfig({
     // nitro/vite builds from this
     server: { entry: "server" },
   },
+  nitro: {
+    // Render stable public pages during the deploy instead of on crawler requests.
+    // Starting from these routes, crawlLinks discovers article, category, tag,
+    // author, legal, tool, and other internal content routes.
+    prerender: {
+      crawlLinks: true,
+      routes: [
+        "/",
+        "/blog",
+        "/about",
+        "/authors",
+        "/contact",
+        "/editorial-policy",
+        "/how-we-estimate-repair-costs",
+        "/privacy-policy",
+        "/terms",
+        "/disclaimer",
+        "/tools",
+        "/error-codes",
+        "/sitemap.xml",
+        "/robots.txt",
+        "/llms.txt",
+      ],
+    },
+  },
   vite: {
     plugins: [mcpPlugin()],
   },
 });
-
