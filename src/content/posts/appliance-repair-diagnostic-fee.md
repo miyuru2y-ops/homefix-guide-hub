@@ -4,7 +4,7 @@ slug: "appliance-repair-diagnostic-fee"
 metaDescription: "Learn what an appliance repair diagnostic fee covers, when it may be credited, which questions to ask, and how to compare written estimates fairly."
 category: "repair-cost-guides"
 tags: ["appliance repair diagnostic fee", "appliance service call fee", "repair estimate", "appliance repair cost", "trip charge"]
-date: "2026-09-06"
+date: "2026-09-05"
 updated: "2026-09-06"
 revisionSummary: "Published a consumer-focused guide to diagnostic fees, estimate scope, authorization, and fair repair comparisons."
 author: "Editorial Team"
